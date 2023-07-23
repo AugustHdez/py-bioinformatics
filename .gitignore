@@ -1,3 +1,5 @@
 ./vaers/
 vaers/*
 *.fasta
+*.fastq.gz
+SRR003265.filt.fastq.gz
