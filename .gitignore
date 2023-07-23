@@ -1,2 +1,3 @@
 ./vaers/
 vaers/*
+*.fasta
