@@ -1,0 +1,17 @@
+name: "bioinformatics"
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - biopython  
+  - jupyterlab   
+  - jupytext   
+  - matplotlib
+  - numpy
+  - pandas
+  - scypy
+  - seaborn
+  - rpy2
+  - r-essentials
+  - r-gridextra
